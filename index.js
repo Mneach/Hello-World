@@ -4,4 +4,4 @@ for(i = 0; i<=100 , i++)
 {
   console.log(i);
 }
-console.log("Hello=world");
+console.log("Hello-World");
